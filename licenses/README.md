@@ -35,12 +35,19 @@ Fabric-ASM's complete source, resources and build script are available at the pi
 
 These links provide source for Fabric-ASM under MPL 2.0 §3.2 and Fantasy under GPLv3 §6(d), which LGPLv3 incorporates. Both the LGPLv3 and GPLv3 texts are included here. This pack adds no restriction on modifying these libraries or reverse engineering to debug those modifications.
 
-**Fantasy and Hexic:** Fantasy's source is available at the links above, but the exact source for this Hexic build isn't public yet. I haven't established a way to replace Fantasy in this build, or supplied the application code needed to rebuild Hexic with a modified Fantasy. Those are the alternatives in LGPLv3 §4(d); linking Fantasy's source alone doesn't resolve this requirement.
+**Fantasy and Hexic:** I now have the exact Hexic source, with its LGPLv3 licence and build scripts, but public hosting of that source is still pending. I haven't established a working rebuild with a modified Fantasy or a suitable shared-library replacement mechanism for this build. The alternatives in LGPLv3 §4(d)(0)/(1) therefore remain unresolved; linking Fantasy's source alone doesn't resolve this requirement.
 
 ## Pool's mods
 
-This test pack includes Hexic `2.2.0+8c53640`, Iotaworks `0.1.5+5c390ce`, Iotic Iotas `0.1.0+aa340a6` and PhLib `0.2.0+5ac6b0f`. The exact source for these four builds isn't public yet. I've asked the author to confirm LGPL-3.0 for these builds and publish their exact source. I'll remove them if the author objects.
+This test pack includes the four builds below. Pool confirmed LGPL, offered newer `trunk`/`extent` builds, and supplied exact source for these builds through Gerrit and a Git bundle. I declined the newer builds. Each exact commit has a full root `LICENSE.txt` and an LGPL-3.0 declaration in its module's build file.
 
-The [upstream repository's source at d3409a154aaca6d0544c44a292877a62fc67e318](https://tangled.org/pool.net.eu.org/hex-addons/tree/d3409a154aaca6d0544c44a292877a62fc67e318) is LGPL-3.0, with a root [LICENSE.txt](https://tangled.org/pool.net.eu.org/hex-addons/blob/d3409a154aaca6d0544c44a292877a62fc67e318/LICENSE.txt) and licence declarations in each module's build file. That doesn't confirm the licence of these four builds. I've included them in this test snapshot while I wait for the author's reply; their licence/source questions and the Fantasy requirement above remain unresolved.
+| Bundled build | Exact source commit | Source location |
+|---|---|---|
+| Hexic `2.2.0+8c53640` | `8c536406b5025b5f68419169d4275b88f4eebca7` | Exact source received; public hosting pending. |
+| Iotaworks `0.1.5+5c390ce` | `5c390ce8d750855e20f6a03709490e6203f9143f` | [Pool's Gerrit](https://review.pool.net.eu.org/HexAddons), fetch `refs/changes/55/455/1`. |
+| Iotic Iotas `0.1.0+aa340a6` | `aa340a6f88fc5a5fb7c56cb235f50309c4a96d93` | [Pool's Gerrit](https://review.pool.net.eu.org/HexAddons), fetch `refs/changes/55/455/2`. |
+| PhLib `0.2.0+5ac6b0f` | `5ac6b0ff2af6e3ba7015dc56027c025702dc1c25` | Exact source received; public hosting pending. |
 
-The full [LGPLv3](fantasy-0.4.11+1.20-rc1-LGPL-3.0.txt) and [GPLv3](GPL-3.0.txt) texts are included here. PhLib's Apache/Scala/ClassGraph notices cover its dependencies, not PhLib's own code. This is a partial notice collection; a missing notice doesn't mean a component is free to redistribute.
+For the two public commits, fetch from `https://review.pool.net.eu.org/HexAddons` using the ref above, then read or check out the exact commit. The public pointer tree is commit `106a343c0f262944e07bca210f4692584a419f87`, available from the same repository as `refs/heads/dist/hexatelier` and `refs/tags/hexatelier`. Its `iotaworks-0.1.0` label points to Iotic Iotas. This pointer tree does not itself contain the four source trees or make Hexic and PhLib publicly downloadable. Pool plans to try hosting those two commits; where to host them remains undecided. The supplied bundle alone is not self-contained.
+
+The four exact commits' root licence files are byte-identical to the full [LGPLv3 text already included here](fantasy-0.4.11+1.20-rc1-LGPL-3.0.txt); I reuse that unchanged text for all four, alongside the incorporated [GPLv3](GPL-3.0.txt). PhLib's Apache/Scala/ClassGraph notices cover its dependencies, while this LGPLv3 text covers PhLib's own code. Public source delivery for Hexic and PhLib and the Fantasy requirement above remain unresolved. This is a partial notice collection; a missing notice doesn't mean a component is free to redistribute.
