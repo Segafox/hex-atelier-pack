@@ -1,0 +1,13 @@
+name = "Bare Bones x Particle Effects"
+filename = "Bare Bones x Particle Effects 1.20.1.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/rjTq6O2Z/versions/M63sGGmo/Bare%20Bones%20x%20Particle%20Effects%201.20.1.zip"
+hash-format = "sha512"
+hash = "9369e3213705021b2908e3b1bf871d8cb41a0e5398784d215c20f50515857a2533362f0803cb1697d0b1384bba65ae5a256220fbc6f3d3902c775d90fd269812"
+
+[update]
+[update.modrinth]
+mod-id = "rjTq6O2Z"
+version = "M63sGGmo"

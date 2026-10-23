@@ -1,0 +1,103 @@
+{
+  "CONFIG_VERSION_DONT_TOUCH_THIS": 3,
+  "_comment": "Before changing anything, see https://github.com/Patbox/StyledChat#configuration",
+  "text_formatting": {
+    "legacy_formatting": false,
+    "parse_links": true,
+    "parse_mentions": true,
+    "markdown": true,
+    "respect_colors_client_setting": true
+  },
+  "auto_completion": {
+    "tags": true,
+    "tag_aliases": true,
+    "emoticons": true
+  },
+  "default": {
+    "display_name": "${default}",
+    "message_formats": {
+      "chat": "${player} <dark_gray>»</dark_gray> ${message}",
+      "joined_the_game": "+ <green><lang:multiplayer.player.joined:'${player}'></green>",
+      "joined_after_name_change": "+ <green><lang:multiplayer.player.joined.renamed:'${player}':'${old_name}'></green>",
+      "joined_for_first_time": "+ <green>Oh, that's new, <lang:multiplayer.player.joined:'${player}'></green>",
+      "left_game": "- <red><lang:multiplayer.player.left:'${player}'></red>",
+      "base_death": "<dark_red>☠ ${default_message}",
+      "advancement_task": "<lang:chat.type.advancement.task:'${player}':'${advancement}'>",
+      "advancement_challenge": "<lang:chat.type.advancement.challenge:'${player}':'${advancement}'>",
+      "advancement_goal": "<lang:chat.type.advancement.goal:'${player}':'${advancement}'>",
+      "sent_team_chat": "<lang:'chat.type.team.sent':'<hover\\:\\'<lang\\:chat.type.team.hover>\\'><suggest_command\\:\\'/teammsg \\'>${team}':'${displayName}':'${message}'>",
+      "received_team_chat": "<lang:'chat.type.team.text':'<hover\\:\\'<lang\\:chat.type.team.hover>\\'><suggest_command\\:\\'/teammsg \\'>${team}':'${displayName}':'${message}'>",
+      "sent_private_message": "<gray>[<green>DM</green> → ${receiver}] <dark_gray>»<reset> ${message}",
+      "received_private_message": "<gray>[<green>DM</green> ← ${sender}] <dark_gray>»<reset> ${message}",
+      "say_command": "[${player}] ${message}",
+      "me_command": "<lang:'chat.type.emote':'${player}':'${message}'>",
+      "pet_death": "Oh no! ${default_message}"
+    },
+    "link_style": "<underline><c:#7878ff>${link}",
+    "mention_style": "<c:#7878ff>%player:displayname%",
+    "spoiler_style": "<gray>${spoiler}",
+    "spoiler_symbol": "▌",
+    "formatting": {
+      "dark_red": true,
+      "green": true,
+      "underline": true,
+      "dark_green": true,
+      "black": false,
+      "yellow": true,
+      "bold": true,
+      "italic": true,
+      "dark_blue": true,
+      "dark_purple": true,
+      "gold": true,
+      "red": true,
+      "aqua": true,
+      "gray": true,
+      "light_purple": true,
+      "blue": true,
+      "white": true,
+      "dark_aqua": true,
+      "dark_gray": true,
+      "spoiler": true,
+      "strikethrough": true,
+      "gradient": true,
+      "color": true
+    },
+    "emoticons": {
+      "$emojibase:builtin:joypixels": "${emoji}",
+      "shrug": "¯\\_(ツ)_/¯",
+      "table": "(╯°□°）╯︵ ┻━┻",
+      "sword": "🗡",
+      "bow": "🏹",
+      "trident": "🔱",
+      "rod": "🎣",
+      "potion": "🧪",
+      "shears": "✂",
+      "bucket": "🪣",
+      "bell": "🔔",
+      "item": "[%player:equipment_slot mainhand%]",
+      "pos": "%player:pos_x% %player:pos_y% %player:pos_z%",
+      "MIN_LONG": "-9,223,372,036,854,775,808 (-9.22Q) (-2^63)",
+      "MAX_LONG": "9,223,372,036,854,775,807 (9.22Q) (2^63-1)",
+      "MIN_INT": "-2,147,483,648 (-2.14b) (-2^31)",
+      "MAX_INT": "2,147,483,647 (2.14b) (2^31-1)",
+      "MIN_SHORT": "-32,768 (-32.7k) (-2^15)",
+      "MAX_SHORT": "32,767 (32.7k) (2^15-1)"
+    },
+    "custom_message_types": {}
+  },
+  "styles": [
+  {
+      "require": {
+        "type": "operator",
+        "operator": 2
+      },
+      "display_name": "<dark_gray>[</dark_gray><c:#007f7f>Weaver</c><dark_gray>]</dark_gray> ${default}",
+      "message_formats": {
+        "chat": "${player} <c:#007f7f>»</c> <#94ffff>${message}"
+      },
+      "formatting": {},
+      "emoticons": {},
+      "custom_message_types": {}
+    }
+  ]
+}

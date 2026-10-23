@@ -1,0 +1,3 @@
+# Optional chunk-loading optimization switches.
+reduce-sync-loads: false
+cache-ticking-chunks: false

@@ -1,0 +1,13 @@
+name = "Hexodus"
+filename = "hexodus-1.0.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/bN6IKmdE/versions/1ApHzJr1/hexodus-1.0.0.jar"
+hash-format = "sha512"
+hash = "28ab168c1c5a787d97016ddd7e89f31f8ecb1d833d098b43faa6a985e9e5887c1019be3f6c0e3706e776e4ee3d3b84255d2014275a55526892b5ae6fbc45db66"
+
+[update]
+[update.modrinth]
+mod-id = "bN6IKmdE"
+version = "1ApHzJr1"

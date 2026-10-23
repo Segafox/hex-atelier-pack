@@ -1,0 +1,13 @@
+name = "Curios/Trinkets Media Holder"
+filename = "TrinketMediaHolder-fabric-1.20.1-1.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/A7vBsE7N/versions/hlBqQv5K/TrinketMediaHolder-fabric-1.20.1-1.0.jar"
+hash-format = "sha512"
+hash = "b1eeb94f7f44a241038c8dac1f02d950a4eb9d1348da4cdbb75ecf87db5b16105bef08294722ac24172d55ca63329d1ac09f826777d7499392b481a55c8f988d"
+
+[update]
+[update.modrinth]
+mod-id = "A7vBsE7N"
+version = "hlBqQv5K"

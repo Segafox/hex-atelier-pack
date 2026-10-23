@@ -1,0 +1,13 @@
+name = "HexIntent"
+filename = "manifestation-2.2.2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/4G64Rm66/versions/4niHlN89/manifestation-2.2.2.jar"
+hash-format = "sha512"
+hash = "d341296284e3d8be5745953ca93f6621df2d3fd9292a28fb41a3b1eee333e46702c5c5ffde9efab37f7649cebc6981051991af4996ec3e8baf049c7cd81f971c"
+
+[update]
+[update.modrinth]
+mod-id = "4G64Rm66"
+version = "4niHlN89"

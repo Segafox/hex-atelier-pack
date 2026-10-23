@@ -1,0 +1,3 @@
+# Disable permanent spawn-chunk loading; unspecified settings use upstream defaults.
+features:
+  disable-spawn-chunks: true

@@ -1,0 +1,13 @@
+name = "Hextended Staves"
+filename = "hextended-fabric-1.20.1-2.0.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/mvESKiJR/versions/l6et8gII/hextended-fabric-1.20.1-2.0.1.jar"
+hash-format = "sha512"
+hash = "f7ad439cf150e4272dfaa8cd2b727a1bfd93a32749d0f5068787f4dadb010b8fdb57c29dffbd9cfd7dac0b5bc37e29432e995960ede0b8cac3eaa8d9b5b7a382"
+
+[update]
+[update.modrinth]
+mod-id = "mvESKiJR"
+version = "l6et8gII"

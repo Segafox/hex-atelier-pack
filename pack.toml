@@ -1,0 +1,13 @@
+name = "Hex Atelier"
+version = "0.0.0-dev"
+description = "My test pack, based on Hexwoven 6.2.0. Still in development."
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "ec8e576c040274c64418230f15295bfc6affcf326b2c9b30a6bea05093137456"
+
+[versions]
+fabric = "0.19.5"
+minecraft = "1.20.1"

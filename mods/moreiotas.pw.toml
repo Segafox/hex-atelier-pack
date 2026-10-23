@@ -1,0 +1,13 @@
+name = "MoreIotas"
+filename = "moreiotas-fabric-1.20.1-0.1.2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/Jmt7p37B/versions/ibSppm0K/moreiotas-fabric-1.20.1-0.1.2.jar"
+hash-format = "sha512"
+hash = "dc4c432c8d8ff20cb6f346a7ee3df2640d0047adc8706b7058f72e120f93aaec7f375a9ae33d0b01ed2a7e2a9910e37a3162d2c39e17bf4fbba9d4376d658607"
+
+[update]
+[update.modrinth]
+mod-id = "Jmt7p37B"
+version = "ibSppm0K"

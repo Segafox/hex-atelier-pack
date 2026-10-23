@@ -1,0 +1,13 @@
+name = "Hexportation"
+filename = "hexportation-fabric-1.20.1-0.0.3.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/AsqM28gQ/versions/P9Zb0V9l/hexportation-fabric-1.20.1-0.0.3.jar"
+hash-format = "sha512"
+hash = "852666f293e5aa197d4e1badf018113c2a1fe22c4f242796227b96d20f1f42b41a6fafaa8ff9ebf9ece316c940ea5588a0dcc66e35714d50374735410e52a6de"
+
+[update]
+[update.modrinth]
+mod-id = "AsqM28gQ"
+version = "P9Zb0V9l"

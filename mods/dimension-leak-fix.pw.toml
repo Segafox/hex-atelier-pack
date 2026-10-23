@@ -1,0 +1,13 @@
+name = "Dimension Leak Fix"
+filename = "dimension-leak-fix-mc1.20.1-fabric-1.0.2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/nT8BgIrU/versions/DWqBGLwo/dimension-leak-fix-mc1.20.1-fabric-1.0.2.jar"
+hash-format = "sha512"
+hash = "c04cedc8bfc36d8841558809a682980afb13fd4a1e7a1bad7149c22ea65cedc4183de65910c4ceb0ef0f29486775f3d80ea10e7bbc41f084f12666fec0c02859"
+
+[update]
+[update.modrinth]
+mod-id = "nT8BgIrU"
+version = "DWqBGLwo"

@@ -1,0 +1,13 @@
+name = "Photon Editor"
+filename = "photon-fabric-1.20.1-1.1.17.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/gzevkJbM/versions/Fh02Gr1l/photon-fabric-1.20.1-1.1.17.jar"
+hash-format = "sha512"
+hash = "c549a551fb4839631463f05e93c44eecc3641cff787593e3eac9b61f48733cf49a137b842d9f1ebf1b872a70e4994e004ee5160fb61cde4fb628f39831c2d91c"
+
+[update]
+[update.modrinth]
+mod-id = "gzevkJbM"
+version = "Fh02Gr1l"

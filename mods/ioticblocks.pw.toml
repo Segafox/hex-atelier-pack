@@ -1,0 +1,13 @@
+name = "IoticBlocks"
+filename = "ioticblocks-fabric-1.0.2+1.20.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/u3PPsXzt/versions/SJMDeeZs/ioticblocks-fabric-1.0.2%2B1.20.1.jar"
+hash-format = "sha512"
+hash = "7371f4af875730066f12da6fa305d9f0d0a6d3dd497c7aba88cd1239d33e1cdaab26b2d974c2b1313eb1ec6ca0fc5a5c882e358b22c067be9412de2dff0c6b44"
+
+[update]
+[update.modrinth]
+mod-id = "u3PPsXzt"
+version = "SJMDeeZs"

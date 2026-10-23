@@ -1,0 +1,13 @@
+name = "Hexpats"
+filename = "hexpats-0.1.1-1.20.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/dmOz7d0b/versions/4wId0HQw/hexpats-0.1.1-1.20.1.jar"
+hash-format = "sha512"
+hash = "fcfdfeb16b0e3e877018c6ad9dd7d73fd71f619fba5f81faa3979a837cd67283429d509f662a5bc66b0276e6074d2a026bfd41350a8c9b8b57de4dd94d653817"
+
+[update]
+[update.modrinth]
+mod-id = "dmOz7d0b"
+version = "4wId0HQw"

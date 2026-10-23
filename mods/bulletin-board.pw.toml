@@ -1,0 +1,13 @@
+name = "Bulletin Board"
+filename = "bulletin-board-1.2.1-1.20.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/AiU6nVGw/versions/ItzoWI6f/bulletin-board-1.2.1-1.20.1.jar"
+hash-format = "sha512"
+hash = "be16f782ae15f533e59dcd0715544514d20235a6c8af24672205e401a1ea6cf2f6546095c6c659e67d0642993a9c6aaa27217772912a727c196f17691049b134"
+
+[update]
+[update.modrinth]
+mod-id = "AiU6nVGw"
+version = "ItzoWI6f"

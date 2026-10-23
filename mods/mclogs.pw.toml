@@ -1,0 +1,13 @@
+name = "mclo.gs"
+filename = "mclogs-fabric-1.5.0-1.20.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/6DdCzpTL/versions/11Br0QcY/mclogs-fabric-1.5.0-1.20.jar"
+hash-format = "sha512"
+hash = "8f2bc8664726a005808140712fd108e003baa88504fa358e3af056d2e304ec2eec3d1c882f251f3ead3a181d182ca1a2a00e0d646cac38e54bc4b4d1b47feb1e"
+
+[update]
+[update.modrinth]
+mod-id = "6DdCzpTL"
+version = "11Br0QcY"

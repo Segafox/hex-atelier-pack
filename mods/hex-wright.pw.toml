@@ -1,0 +1,13 @@
+name = "Hex Wright"
+filename = "hexwright-2.0.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/DXkdjl8n/versions/21LEtIVr/hexwright-2.0.0.jar"
+hash-format = "sha512"
+hash = "3d4cb61f4ea92e986f1c02c06f99edafe56999939dd16c267771ebc541001df608068c0cef11076cfe87b82ef65fe4eeee9c437fa62f1fb3ef0d7f0592711db4"
+
+[update]
+[update.modrinth]
+mod-id = "DXkdjl8n"
+version = "21LEtIVr"

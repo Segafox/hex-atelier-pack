@@ -1,0 +1,13 @@
+name = "Arid's Immersive Resprites"
+filename = "ImmersiveResprites-1.1.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/k2gepSHH/versions/bVqeUbyZ/ImmersiveResprites-1.1.zip"
+hash-format = "sha512"
+hash = "c7597d3feb7d8e8a13e05c637665fe7f2c1b5cbd38afa8df2e81083722cef20f7bbcb9187f24af94a14376bf57fb077ddfe1670b1a2768563d60705799bbc8df"
+
+[update]
+[update.modrinth]
+mod-id = "k2gepSHH"
+version = "bVqeUbyZ"

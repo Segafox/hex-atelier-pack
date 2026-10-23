@@ -1,0 +1,13 @@
+name = "LDLib"
+filename = "ldlib-fabric-1.20.1-1.0.52.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/B1CBVXHX/versions/PH4Bbtlr/ldlib-fabric-1.20.1-1.0.52.jar"
+hash-format = "sha512"
+hash = "97a3fcd0fcdfef5af827d927e4c021973726890d56e11c21e43a5c3e47e684ac34a2a108ae121468bed2885867046b2856b932b8a8f8224a25aead6d863409d8"
+
+[update]
+[update.modrinth]
+mod-id = "B1CBVXHX"
+version = "PH4Bbtlr"

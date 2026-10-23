@@ -1,0 +1,13 @@
+name = "Hex Casting Media Display (Teal's fork)"
+filename = "hexcasting-media-display-2.0.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/WUaqJBWj/versions/hC4KLCXE/hexcasting-media-display-2.0.0.jar"
+hash-format = "sha512"
+hash = "2ac8faf88d4e51ae7edcad3df85edf6c894f41769884462a84bf6d7a7a4665cad77f9f82c465669a0d0e0d48ab0c6b79829ae45b47b6803e67b6879e7bcb4f31"
+
+[update]
+[update.modrinth]
+mod-id = "WUaqJBWj"
+version = "hC4KLCXE"

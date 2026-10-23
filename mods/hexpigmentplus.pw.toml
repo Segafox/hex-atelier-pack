@@ -1,0 +1,13 @@
+name = "Hex Pigment Plus"
+filename = "hexpigmentplus-1.7.2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/QzVOvj6k/versions/hRQ30Jjy/hexpigmentplus-1.7.2.jar"
+hash-format = "sha512"
+hash = "6f421146c2739a1c5ddfa1c8baeae7ae4c19da8c501643f5c3d36d54893d30171475f8e6dd09071536a0be7a89d248afe5576010293ef613c8617e4b2cd08156"
+
+[update]
+[update.modrinth]
+mod-id = "QzVOvj6k"
+version = "hRQ30Jjy"

@@ -1,0 +1,13 @@
+name = "Sewn Hexes"
+filename = "sewn_hexes-0.1.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/4ljsBxMV/versions/CvrUSNmQ/sewn_hexes-0.1.1.jar"
+hash-format = "sha512"
+hash = "da8088c668b2ee382b3153c06c7ce7a4d25ac9c3f7569a4e02a1fc8a8277414b052cdd03b02d57be21bebfbaa30dcc23a6d7b0278fa487b0159c69cce36d397b"
+
+[update]
+[update.modrinth]
+mod-id = "4ljsBxMV"
+version = "CvrUSNmQ"

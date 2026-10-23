@@ -1,0 +1,13 @@
+name = "Simple Chat Disabler"
+filename = "disablechat-1.0.0.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/3vy47SCe/versions/7x7zVFDw/disablechat-1.0.0.jar"
+hash-format = "sha512"
+hash = "5b9125c74dedcd1fd4694f8489a75e8caf8794b805edf3ed6012a0c5dd8918e119035b6e2a48d1bf6e1b7fbb86d24ab899e50c720bb9eb19be5270b2ccf38b66"
+
+[update]
+[update.modrinth]
+mod-id = "3vy47SCe"
+version = "7x7zVFDw"

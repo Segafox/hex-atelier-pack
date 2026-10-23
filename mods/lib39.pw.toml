@@ -1,0 +1,13 @@
+name = "Lib39"
+filename = "lib39-2.0.40+1.20.1-all.deflated.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/BMsWWSPQ/versions/Y96ThKg6/lib39-2.0.40%2B1.20.1-all.deflated.jar"
+hash-format = "sha512"
+hash = "32858a12ef3169c9b7021ee3ce0849c824c68d8bc425c65874613ac1b8b17415d944561b7bc9c1c6220b20a3a3138cc6a0d75e2abffd75344dd7581056181224"
+
+[update]
+[update.modrinth]
+mod-id = "BMsWWSPQ"
+version = "Y96ThKg6"

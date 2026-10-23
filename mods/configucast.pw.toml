@@ -1,0 +1,13 @@
+name = "Configu-cast"
+filename = "configucast-fabric-1.2.0.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/OP04P7va/versions/e8MZHu3X/configucast-fabric-1.2.0.jar"
+hash-format = "sha512"
+hash = "66a6fad944a10ea7b6912530d28ee44ec824d596b04e93991dd6b858ca819985f472f2b9166248889aaddcda39059c0b8be09f43eae6ae44072054d5d9c65c9f"
+
+[update]
+[update.modrinth]
+mod-id = "OP04P7va"
+version = "e8MZHu3X"

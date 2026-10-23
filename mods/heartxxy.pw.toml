@@ -1,0 +1,13 @@
+name = "Heartxxy"
+filename = "pregxxy-fabric-0.4.67+1.20.1-SNAPSHOT.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/lVNwdGbL/versions/K7OfiujX/pregxxy-fabric-0.4.67%2B1.20.1-SNAPSHOT.jar"
+hash-format = "sha512"
+hash = "316920c72cabce89a3e4d90ee45e44cccee494fe9a8f1cf82e98ff55748b8ba439d99a7e1e6d59059e3ef8d39cf785624a4247b0770e84d39120ff840907cbe1"
+
+[update]
+[update.modrinth]
+mod-id = "lVNwdGbL"
+version = "K7OfiujX"

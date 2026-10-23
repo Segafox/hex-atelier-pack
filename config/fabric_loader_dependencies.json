@@ -1,0 +1,10 @@
+{
+  "version": 1,
+  "overrides": {
+    "iotaworks": {
+      "-depends": {
+        "phlib": "*"
+      }
+    }
+  }
+}

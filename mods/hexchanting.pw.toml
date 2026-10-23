@@ -1,0 +1,13 @@
+name = "Hexchanting"
+filename = "hexchanting-1.2.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/UlOmzEJF/versions/VUs2loSx/hexchanting-1.2.0.jar"
+hash-format = "sha512"
+hash = "5e206bd0bbba7749ed6856a0425c80ebff23b633764ed7444bdd94075df53b6e6ad8bc0a8df6a7ef4ab21d7d6ec943fbce08e6b76f66b569335a351fbdb09890"
+
+[update]
+[update.modrinth]
+mod-id = "UlOmzEJF"
+version = "VUs2loSx"
