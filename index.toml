@@ -13,6 +13,18 @@ file = "config/amendments-common.json"
 hash = "788b28902b4085ff4a39516deb7203d4fdbbd3cdddf4f4b2ce66e0b83a962825"
 
 [[files]]
+file = "config/defaultoptions/extra/config/controlify.json"
+hash = "582e96c6fc7ff7a4590e518d171f890e501b23bd5e78dec60cf4109dedc2c3da"
+
+[[files]]
+file = "config/emi.css"
+hash = "818ee950d49b2f904923e6f6ab7a4e5cae37c6386a51ded93295af7ad42f6521"
+
+[[files]]
+file = "config/entityculling.json"
+hash = "192a62a62d840cf5bd62f98d03a46daed93a721d36c74861b7f5aa130fbc1313"
+
+[[files]]
 file = "config/fabric_loader_dependencies.json"
 hash = "bd449ff54e27a835ac241bc33d97f43f103b6614e0e620abd9f42e78006e89fb"
 
@@ -217,6 +229,11 @@ hash = "77ff1432123c57983a848a27047a265ddf10d3a76a17c7c9b2dd7e77a042d711"
 metafile = true
 
 [[files]]
+file = "mods/balm.pw.toml"
+hash = "6de5ca2a3627fddc0da83f0793a8c0c1c88112436b32cae964fa6a1ef8d2d420"
+metafile = true
+
+[[files]]
 file = "mods/better-combat.pw.toml"
 hash = "3b7092310bc0f904df63b3801c2941f42323ad187283f8ea0e3eebe49ba86870"
 metafile = true
@@ -302,6 +319,11 @@ hash = "f7aa0dba9aed6ee994ea86caf0dc2d39ca822e4a8e39b13152db7933c9f04ab4"
 metafile = true
 
 [[files]]
+file = "mods/default-options.pw.toml"
+hash = "f373d061b212b65b3e4ec314862f1fbc8639c7662c37724bdca943308d9afaaf"
+metafile = true
+
+[[files]]
 file = "mods/delete-worlds-to-trash.pw.toml"
 hash = "8d9d9e202617d008aa14afbc22f9838cffa06ea6368159cd2114551d39d60a76"
 metafile = true
@@ -323,6 +345,11 @@ hash = "bdbea2df3c466eff733377685a4a199516f7ac7b67c82dd32e0521d37f386bce"
 [[files]]
 file = "mods/emi.pw.toml"
 hash = "56aa0a3036cc155609e1d96952a3588a9b1db53d4c65038e8b15cec301c31134"
+metafile = true
+
+[[files]]
+file = "mods/entityculling.pw.toml"
+hash = "8f87be4a343aa97303a0d934d388dcd9674769f65f790a9ac0c13ea815024c78"
 metafile = true
 
 [[files]]
@@ -363,6 +390,11 @@ metafile = true
 [[files]]
 file = "mods/female-gender.pw.toml"
 hash = "ad026940b4bfbfa1631c40ffed874587d219755a2880ccbe53fd34b57d755c43"
+metafile = true
+
+[[files]]
+file = "mods/ferrite-core.pw.toml"
+hash = "86cbfa8adbbb8be527f95aca49b427f892aa780773df141dfd7f4ffd02740bbd"
 metafile = true
 
 [[files]]
@@ -512,6 +544,11 @@ hash = "8d58c6a15aaa6e189d8b9af6e13707eec123e34358c31c96bc631550bb47de46"
 metafile = true
 
 [[files]]
+file = "mods/immediatelyfast.pw.toml"
+hash = "51b79a1eacb4f15f1626c802137c95b0a4316fefb540e6ec31cf81118b91c20b"
+metafile = true
+
+[[files]]
 file = "mods/immersive-melodies.pw.toml"
 hash = "7895dee004f43aecae83bad59014861fce47ede498d1dd37c7e78279d1e0bf4c"
 metafile = true
@@ -592,6 +629,11 @@ metafile = true
 [[files]]
 file = "mods/modelfix.pw.toml"
 hash = "435267c3230ba1439f50fa32c3ed3993a4123f870681451aa95acdde5d52622e"
+metafile = true
+
+[[files]]
+file = "mods/modernfix.pw.toml"
+hash = "0d438cc5a467aae6a9aa439a4547f990dfbaa4dc4e7bf5dbabf6d6e839411e83"
 metafile = true
 
 [[files]]
