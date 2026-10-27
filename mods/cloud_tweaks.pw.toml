@@ -1,0 +1,13 @@
+name = "Cloud Tweaks"
+filename = "cloud_tweaks+1.20.1-0.4.1-fabric.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/3VF0kOsp/versions/pFquRp4X/cloud_tweaks%2B1.20.1-0.4.1-fabric.jar"
+hash-format = "sha512"
+hash = "a4e0d6bd5d8da6bf55eb30c2257df6829328f020164ad31f87eac58a2c40d3c6077011aee4b4b2a31044ab2f188445f54e95b9c24e96f261d3aff226b6dd9dcf"
+
+[update]
+[update.modrinth]
+mod-id = "3VF0kOsp"
+version = "pFquRp4X"

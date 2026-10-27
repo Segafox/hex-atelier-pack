@@ -1,0 +1,13 @@
+name = "Aesthetic Shelving"
+filename = "aestheticshelving-1.20.1_fabric_v.2.0.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/7syTk5Tj/versions/mzROTmph/aestheticshelving-1.20.1_fabric_v.2.0.0.jar"
+hash-format = "sha512"
+hash = "6470661085e9b3d1cf2107465b9f4f74ff7107031a092a6735c7583f14c2547be8b91f7cf29361b1f893335748f8692dcebe39071e11d6e588cc518b39c0e910"
+
+[update]
+[update.modrinth]
+mod-id = "7syTk5Tj"
+version = "mzROTmph"

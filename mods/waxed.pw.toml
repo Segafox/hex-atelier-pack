@@ -1,0 +1,13 @@
+name = "Waxed & Shiny"
+filename = "Waxed & Shiny-fabric-1.1.6-1.20.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/pZMc9viQ/versions/Z7EFxCt4/Waxed%20%26%20Shiny-fabric-1.1.6-1.20.1.jar"
+hash-format = "sha512"
+hash = "f54d1d62de7a20e0c78766bbf0bfb7ac788dc253ba37a7945fbf70fd2271d4a4ff144cb5a7d849fc824013fcee7a7dccdbc460fd87f67a3d1c4307e4ed258e42"
+
+[update]
+[update.modrinth]
+mod-id = "pZMc9viQ"
+version = "Z7EFxCt4"

@@ -1,0 +1,13 @@
+name = "[LDS] Lazy Display Stand"
+filename = "display-1.0.2-fabric-1.20.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "b85e183d35e8d3769114c6f796c03700a1fedf8d"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6544060
+project-id = 1215469

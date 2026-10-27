@@ -1,0 +1,13 @@
+name = "Aesthetic Storage"
+filename = "aestheticstorage-1.20.1_fabric_v.2.0.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/ZOgCd8lk/versions/sKrKuZve/aestheticstorage-1.20.1_fabric_v.2.0.0.jar"
+hash-format = "sha512"
+hash = "3c3f1bb13a3f293143adc95ff53ec9974d7e177a1e6066956aecc1572cb4d609defd13cd0533045262a829e908e0499d3082e6f93a1f26c4e7f7eb78fc32eeb6"
+
+[update]
+[update.modrinth]
+mod-id = "ZOgCd8lk"
+version = "sKrKuZve"

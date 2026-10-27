@@ -1,0 +1,13 @@
+name = "TW‘s  Decorative Food"
+filename = "tw-decorative-food-1.20.1-2.0.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/656seq5J/versions/FhXwQiY7/tw-decorative-food-1.20.1-2.0.1.jar"
+hash-format = "sha512"
+hash = "e17a5f82979931e080c3964217bb66b9d911a135ee63e522fca37c23c626e71bcce6f65be98865bad862b2a22e72c4a0a18a990da9d82f3031f2e30f30ca4d82"
+
+[update]
+[update.modrinth]
+mod-id = "656seq5J"
+version = "FhXwQiY7"

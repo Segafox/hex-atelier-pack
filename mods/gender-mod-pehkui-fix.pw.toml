@@ -1,0 +1,13 @@
+name = "Gender Mod Pehkui Fix"
+filename = "gendermodpehkuifix-1.0.0.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/U72MttLk/versions/w1Nfu8mg/gendermodpehkuifix-1.0.0.jar"
+hash-format = "sha512"
+hash = "5c5d29c81a4126bb58aa4cf04ce2790b03b4e56e682a8680dbf551a186b7ea80615f7458d653da461c7b7b5c6eaeb246aaa36a5c7f8ead7aa2ce3a0e62044183"
+
+[update]
+[update.modrinth]
+mod-id = "U72MttLk"
+version = "w1Nfu8mg"

@@ -1,0 +1,13 @@
+name = "SelectiveBounds"
+filename = "selectivebounds-fabric-1.20.1-0.0.5.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/rnTvRqwF/versions/yiQYElkH/selectivebounds-fabric-1.20.1-0.0.5.jar"
+hash-format = "sha512"
+hash = "1efaca41d2160353405f05a076c44b16d01125d1f13863b43cd4ac24a2b220ee5409469cc362f869ae38893be4c4d8ce0e14d7b5ba2036b0856659ab9957c80b"
+
+[update]
+[update.modrinth]
+mod-id = "rnTvRqwF"
+version = "yiQYElkH"
