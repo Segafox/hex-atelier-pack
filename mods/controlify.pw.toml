@@ -1,0 +1,13 @@
+name = "Controlify"
+filename = "controlify-2.1.2+1.20.1-fabric-offline.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/DOUdJVEm/versions/gYWWawgz/controlify-2.1.2%2B1.20.1-fabric-offline.jar"
+hash-format = "sha512"
+hash = "5c65c4df504225ce8dd04755aa9883ba3773dd29ec50d5c65410f4147ab39b0df72dc6a8acd9df9bb7a21d107c25bf1649720ca25ccc66c11a9d6d41ecc2b7a3"
+
+[update]
+[update.modrinth]
+mod-id = "DOUdJVEm"
+version = "gYWWawgz"
