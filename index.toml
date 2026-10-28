@@ -49,6 +49,10 @@ file = "config/hexwright-recipe-tablets.json"
 hash = "63db77fcaa82f6ca9698396a7559c442873d6c47be97748e6280152e8611b638"
 
 [[files]]
+file = "config/immediatelyfast.json"
+hash = "0f38470a992bb54a12ef5054ade5f4ee78c450ea691a2fe4e46aec07597d0e69"
+
+[[files]]
 file = "config/immersive_melodies.json"
 hash = "3598a974eca3edb9ce1724dd58afb16fd7d85d2e044080cce6f677e2894436de"
 
