@@ -638,6 +638,11 @@ hash = "c4750010629cf58949f3cc5a118c39fd40d465f59657b12646eee9a7faca77db"
 metafile = true
 
 [[files]]
+file = "mods/lithium.pw.toml"
+hash = "c8695e51366b601c5e9118a5d5650d234cc25fc8d1f90ebd186c17c199ba7fca"
+metafile = true
+
+[[files]]
 file = "mods/mclogs.pw.toml"
 hash = "f2c7a309cbb4f9ece32acafb6760162eb94b5db841b21cb81fba9cac2d50ed86"
 metafile = true
