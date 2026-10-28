@@ -12,7 +12,7 @@
     "hexpose:item_stack",
     "hexstruction:structure",
     "hierophantics:mind_reference",
-    "hierophantics:mishap_thrower",
+    {"id": "hierophantics:mishap_thrower", "required": false},
     "moreiotas:item_stack",
     "oneironaut:dim",
     "oneironaut:uuid"

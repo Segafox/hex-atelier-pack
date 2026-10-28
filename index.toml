@@ -6,7 +6,7 @@ hash = "75c1618ade973ce68a53c20111f015c3693e73dd2b180602fbe48e153b4e4084"
 
 [[files]]
 file = "config/accessories.json5"
-hash = "ed345b4a8206283f92d9825283cd9173664e2e60f813ba0f980bdfe9a6a1c77d"
+hash = "010571930c73a62e83feea18097dbbee260c6669eef2d1517bd3fbdfe8f3992a"
 
 [[files]]
 file = "config/amendments-common.json"
@@ -74,7 +74,7 @@ hash = "1ad8c496963526d048c561c88563796b99074cefbe8450f0cc4d692a2e72f12c"
 
 [[files]]
 file = "config/slate_work.json5"
-hash = "3c25fdf4d503526d479708c02a20f0b7a0199c2fb14b37bc7f3ce21f912c17c0"
+hash = "e7ba48342a64e72193fdab5165b5edef795502bd6751062b26418c4dab353d3f"
 
 [[files]]
 file = "config/styled-chat.json"
@@ -85,12 +85,24 @@ file = "kubejs/assets/hexwright/lang/en_us.json"
 hash = "8e69772f1604bc960bd64d9067f22e0efb6cc49ba531edeb621959be8d5bd873"
 
 [[files]]
+file = "kubejs/assets/manifestation/textures/block/transparent.png"
+hash = "618fb5130335809169a689f4db5d5516311a87ae58c02b0ef0449489ae8788e1"
+
+[[files]]
+file = "kubejs/server_scripts/aesthetic_optional_wood.js"
+hash = "fac314cc15977813f6ce75ce7bb8c2e19ac7f4001d6986ea45f8f37adae45d0c"
+
+[[files]]
 file = "kubejs/server_scripts/hexcasting_phial.js"
 hash = "c83540ecd0ece50048284663d0a21a35730c12094bc07bfe848bc2c9ef4df6d3"
 
 [[files]]
 file = "kubejs/server_scripts/hexic_devdocs.js"
 hash = "1fc6115eddb6fd2fbe4eeccbe16dd3744d72b0b13065520c0f48eb4df6cefb93"
+
+[[files]]
+file = "kubejs/server_scripts/hexportation_stale_tags.js"
+hash = "b3b40505a1e0ef0967c16bd8247a623ce85ee206069e9a5dc4b3e1d67a8bcb43"
 
 [[files]]
 file = "kubejs/server_scripts/hexwright_loot_scope.js"
@@ -902,7 +914,7 @@ metafile = true
 
 [[files]]
 file = "world/datapacks/server/data/hexal/tags/iota_type/illegal_interworld.json"
-hash = "e7cf12f213243a8e55fcdf7f64e4639b3eab350568a4884adaebeb15e299793d"
+hash = "2a05919ea5d45264bb4ad29e7bdb4ca62bbb18ed259a42d5d6045641d4ab2cb1"
 
 [[files]]
 file = "world/datapacks/server/pack.mcmeta"

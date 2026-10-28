@@ -3,14 +3,14 @@
 		"showGroupTabs": true,
 		"showUniqueRendering": false,
 		"inventoryButtonXOffset": 66,
-		"inventoryButtonYOffset": 69,
+		"inventoryButtonYOffset": 9,
 		"creativeInventoryButtonXOffset": 96,
 		"creativeInventoryButtonYOffset": 7,
 		"forceNullRenderReplacement": false,
 		"disableEmptySlotScreenError": false,
 		"allowSlotScrolling": true,
 		"showUnusedSlots": false,
-		"equipControl": "NEVER",
+		"equipControl": "MUST_NOT_CROUCH",
 		"hoverOptions": {
 			"hoveredOptions": {
 				"brightenHovered": true,
