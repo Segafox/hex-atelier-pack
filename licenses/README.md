@@ -73,4 +73,4 @@ Shallows Crossing (working name), `shallows-crossing-0.2.0.jar`, is my own work,
 
 ## Hex Atelier Integration
 
-Hex Atelier Integration (working name), `hex-atelier-integration-0.1.0.jar`, is my own work, included here as a built test jar. I have not chosen or granted a licence for it yet. The other component notices and the pack licence do not grant a licence to this mod.
+Hex Atelier Integration (working name), `hex-atelier-integration-0.2.0.jar`, is my own work, included here as a built test jar. I have not chosen or granted a licence for it yet. The other component notices and the pack licence do not grant a licence to this mod.

@@ -1,4 +1,8 @@
 {
   "disableHexwrightInspiration": true,
-  "disableHexwrightTabletRewards": true
+  "disableHexwrightTabletRewards": true,
+  "restrictCoalescerToCommon": true,
+  "disableCoalescerRedstone": true,
+  "restrictCoalescingGambitToPlayers": true,
+  "disableRegeneratingProducerRecipes": true
 }

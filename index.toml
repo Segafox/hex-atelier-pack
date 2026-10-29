@@ -30,7 +30,7 @@ hash = "bd449ff54e27a835ac241bc33d97f43f103b6614e0e620abd9f42e78006e89fb"
 
 [[files]]
 file = "config/hex-atelier-integration.json"
-hash = "007512828829f3c404fa0c00e3ae73a97f761a7a4fe052affae5a271f144b8fd"
+hash = "f7aec8579f52e8d67e14d4843e8ba1d745964b50bebb2b823c24d3c33e64951f"
 
 [[files]]
 file = "config/hexcassettes.json"
@@ -89,8 +89,20 @@ file = "kubejs/assets/manifestation/textures/block/transparent.png"
 hash = "618fb5130335809169a689f4db5d5516311a87ae58c02b0ef0449489ae8788e1"
 
 [[files]]
+file = "kubejs/data/hexatelier/tags/items/coalescer_extra_denials.json"
+hash = "a8d810a25086eb1dcca7ecef64c4ce40aa4c85331a78d250a28e50dfc73615cf"
+
+[[files]]
+file = "kubejs/data/hexatelier/tags/items/coalescer_rarity_exempt.json"
+hash = "0c615d27d6e7932dab70603593b0d4b2098f06e605c17c7e8549a677ec84ef94"
+
+[[files]]
 file = "kubejs/server_scripts/aesthetic_optional_wood.js"
 hash = "fac314cc15977813f6ce75ce7bb8c2e19ac7f4001d6986ea45f8f37adae45d0c"
+
+[[files]]
+file = "kubejs/server_scripts/coalescer_rules.js"
+hash = "236905c0942b479aa7d3ed603bcbbfecb5ab8f08f3b93c5946c55a524659faff"
 
 [[files]]
 file = "kubejs/server_scripts/hexcasting_phial.js"
@@ -126,7 +138,7 @@ hash = "0bf15df3576e4cf18023b44b4a330361ff6b9c5d4cf0befdb4208415cdf49c4c"
 
 [[files]]
 file = "licenses/README.md"
-hash = "313f924778d4d31cfbd476418eb1b47d993eeea5ccf4694c4f8772ac1fc9b481"
+hash = "18128dc9491e89edf7f05ce0e0fde1fbd66ddc925081228ad39b9c846a11e26b"
 
 [[files]]
 file = "licenses/cardinal-components-api-5.2.1-MIT.txt"
@@ -449,8 +461,8 @@ hash = "668066d7cfc8874fd4fda98807dd096c20f75f21de0b7cb46ef76a958e10d1cd"
 metafile = true
 
 [[files]]
-file = "mods/hex-atelier-integration-0.1.0.jar"
-hash = "e5e4b05c6912a02714e584cb07912920a64c51f35a8d50720fd10a8a226eb97d"
+file = "mods/hex-atelier-integration-0.2.0.jar"
+hash = "29b8cd2a1e72bc027fa18ce8c4d504b1ab9a800a32f3d7d52dee2472f93359f2"
 
 [[files]]
 file = "mods/hex-casting-media-display.pw.toml"
