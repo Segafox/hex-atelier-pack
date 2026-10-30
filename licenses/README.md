@@ -56,7 +56,7 @@ The four exact commits' root licence files are byte-identical to the full [LGPLv
 
 I use [Complementary Reimagined](https://www.complementary.dev/reimagined/) by Complementary Development with [Euphoria Patches](https://www.euphoriapatches.com/) by SpacEagle17 as my house shader. I take responsibility for problems arising from using the shader in my pack; please report pack problems to me rather than treating them as upstream shader bugs.
 
-I deliver the unchanged Complementary r5.9.3 zip through its official Modrinth download reference and the unchanged Euphoria Patcher mod through Modrinth. The patcher creates the patched shader locally; I do not distribute that generated shader. Its shader code is not covered by the patcher's MPL licence. I ship an external Iris selection file, not edits inside the shader zip or a tuned shader-settings file.
+I deliver the unchanged Complementary r5.9.3 zip through its official Modrinth download reference and the unchanged Euphoria Patcher mod through Modrinth. The patcher creates the patched shader locally; I do not distribute that generated shader. Its shader code is not covered by the patcher's MPL licence. I ship an external Iris selection file and a first-install LOW performance-options template, not edits inside the shader zip. Permission to distribute that separate options file is assumed provisionally, not confirmed; I will revisit its delivery if the authors say it is not permitted.
 
 | Notice | Component and notice source | Source |
 |---|---|---|
@@ -66,6 +66,12 @@ I deliver the unchanged Complementary r5.9.3 zip through its official Modrinth d
 | [euphoria-patcher-jbsdiff-BSD-2-Clause.txt](euphoria-patcher-jbsdiff-BSD-2-Clause.txt) | Shaded jbsdiff, verbatim `jbsdiff-LICENSE.txt`, copyright 2016 Colorado State University | Same exact mod release |
 
 I have not established the patcher source commit used to build this release; the source link above is the upstream repository, not a claim that its current branch is the exact release source. [Euphoria's licence explanation](https://www.euphoriapatches.com/faq/#why-does-euphoria-patches-need-a-mod) distinguishes the patcher distribution from redistribution of the generated shader. The original notices remain inside both downloads.
+
+## Distant Horizons
+
+I include the unchanged [Distant Horizons 3.3.3 for Minecraft 1.20.1](https://modrinth.com/mod/distanthorizons/version/6UnEfsRQ) through its official Modrinth download reference, on client and server. I don't rehost or modify its jar. Its code is LGPL-3.0-only; the original LGPL/GPL texts and separate CC BY-SA 4.0 logo terms remain inside the download (`LICENSE.LESSER.txt`, `LICENSE.txt`, `LICENSE-LOGOS.txt`).
+
+The jar identifies [source commit 575517f261dfd04e302a37719f1459e9b5633d9f](https://gitlab.com/distant-horizons-team/distant-horizons/-/tree/575517f261dfd04e302a37719f1459e9b5633d9f), with [core commit 6c1be680011194b2cf04ef842ace40c50683b09c](https://gitlab.com/jeseibel/distant-horizons-core/-/tree/6c1be680011194b2cf04ef842ace40c50683b09c). My separate first-install settings are not a modified DH build. The original authors' notices and component terms remain applicable.
 
 ## Shallows Crossing
 

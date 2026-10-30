@@ -5,6 +5,11 @@ file = "LICENSE"
 hash = "75c1618ade973ce68a53c20111f015c3693e73dd2b180602fbe48e153b4e4084"
 
 [[files]]
+file = "config/DistantHorizons.toml"
+hash = "f646312ea5ba4810fee4a47b4191fb66f68c79bcce7a337b0ebd0938aa575217"
+preserve = true
+
+[[files]]
 file = "config/accessories.json5"
 hash = "010571930c73a62e83feea18097dbbee260c6669eef2d1517bd3fbdfe8f3992a"
 
@@ -15,6 +20,14 @@ hash = "788b28902b4085ff4a39516deb7203d4fdbbd3cdddf4f4b2ce66e0b83a962825"
 [[files]]
 file = "config/defaultoptions/extra/config/controlify.json"
 hash = "582e96c6fc7ff7a4590e518d171f890e501b23bd5e78dec60cf4109dedc2c3da"
+
+[[files]]
+file = "config/defaultoptions/extra/shaderpacks/ComplementaryReimagined_r5.9.3 + EuphoriaPatches_1.10.5.txt"
+hash = "5c7e0c2678dc8cc182e51fee9c10e36d12c87c5f8e77a74d11c574100da98d95"
+
+[[files]]
+file = "config/defaultoptions/options.txt"
+hash = "83957b440f40b1730ede34dbbaf1e820eb34786d2a400b93a4727f3adf40b36c"
 
 [[files]]
 file = "config/emi.css"
@@ -138,7 +151,7 @@ hash = "0bf15df3576e4cf18023b44b4a330361ff6b9c5d4cf0befdb4208415cdf49c4c"
 
 [[files]]
 file = "licenses/README.md"
-hash = "18128dc9491e89edf7f05ce0e0fde1fbd66ddc925081228ad39b9c846a11e26b"
+hash = "9d712659cb3f649fa73a574084c67eb01c71636473155073bbae3562c1584433"
 
 [[files]]
 file = "licenses/cardinal-components-api-5.2.1-MIT.txt"
@@ -359,6 +372,11 @@ metafile = true
 [[files]]
 file = "mods/dimension-leak-fix.pw.toml"
 hash = "8960de6aa1e3844e9e513429f1ccfc5b04c369c12cf94c65d6764f796d22593d"
+metafile = true
+
+[[files]]
+file = "mods/distanthorizons.pw.toml"
+hash = "084a056c8eca61bdfcb53d7a9ae05693e27ea856256d783cd7757612df125ee5"
 metafile = true
 
 [[files]]
@@ -897,26 +915,6 @@ metafile = true
 [[files]]
 file = "resourcepacks/arids-immersive-resprites.pw.toml"
 hash = "4f93d013debdea7312fd21c2c9a8f30d669dc82efdf62be9ade007f74ec84928"
-metafile = true
-
-[[files]]
-file = "resourcepacks/bare-bones-x-eating-animation.pw.toml"
-hash = "17a42d142ffaf30c0220ca1cf4da957e717e99f884b7ddcc589d71a505f30414"
-metafile = true
-
-[[files]]
-file = "resourcepacks/bare-bones.pw.toml"
-hash = "f704056a512d0c2b5f00a297ec02871142741687320a0c54fae1994e26b66de5"
-metafile = true
-
-[[files]]
-file = "resourcepacks/bare-metals.pw.toml"
-hash = "ef81690c9376f8ca4dc932f219dea38238053ada2b229c5ddbb882a6b5f7ed5a"
-metafile = true
-
-[[files]]
-file = "resourcepacks/barebones-x-particle-effects.pw.toml"
-hash = "59b860a7465acfcac476f45fc48671de966a0e52e7a034255ab5a010ca911cc6"
 metafile = true
 
 [[files]]
