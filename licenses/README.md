@@ -67,12 +67,6 @@ I deliver the unchanged Complementary r5.9.3 zip through its official Modrinth d
 
 I have not established the patcher source commit used to build this release; the source link above is the upstream repository, not a claim that its current branch is the exact release source. [Euphoria's licence explanation](https://www.euphoriapatches.com/faq/#why-does-euphoria-patches-need-a-mod) distinguishes the patcher distribution from redistribution of the generated shader. The original notices remain inside both downloads.
 
-## Distant Horizons
-
-I include the unchanged [Distant Horizons 3.3.3 for Minecraft 1.20.1](https://modrinth.com/mod/distanthorizons/version/6UnEfsRQ) through its official Modrinth download reference, on client and server. I don't rehost or modify its jar. Its code is LGPL-3.0-only; the original LGPL/GPL texts and separate CC BY-SA 4.0 logo terms remain inside the download (`LICENSE.LESSER.txt`, `LICENSE.txt`, `LICENSE-LOGOS.txt`).
-
-The jar identifies [source commit 575517f261dfd04e302a37719f1459e9b5633d9f](https://gitlab.com/distant-horizons-team/distant-horizons/-/tree/575517f261dfd04e302a37719f1459e9b5633d9f), with [core commit 6c1be680011194b2cf04ef842ace40c50683b09c](https://gitlab.com/jeseibel/distant-horizons-core/-/tree/6c1be680011194b2cf04ef842ace40c50683b09c). My separate first-install settings are not a modified DH build. The original authors' notices and component terms remain applicable.
-
 ## Shallows Crossing
 
 Shallows Crossing (working name), `shallows-crossing-0.2.0.jar`, is my own work, included here as a built test jar. I have not chosen or granted a licence for it yet. The other component notices and the pack licence do not grant a licence to this mod.

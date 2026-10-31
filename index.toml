@@ -5,11 +5,6 @@ file = "LICENSE"
 hash = "75c1618ade973ce68a53c20111f015c3693e73dd2b180602fbe48e153b4e4084"
 
 [[files]]
-file = "config/DistantHorizons.toml"
-hash = "f646312ea5ba4810fee4a47b4191fb66f68c79bcce7a337b0ebd0938aa575217"
-preserve = true
-
-[[files]]
 file = "config/accessories.json5"
 hash = "010571930c73a62e83feea18097dbbee260c6669eef2d1517bd3fbdfe8f3992a"
 
@@ -151,7 +146,7 @@ hash = "0bf15df3576e4cf18023b44b4a330361ff6b9c5d4cf0befdb4208415cdf49c4c"
 
 [[files]]
 file = "licenses/README.md"
-hash = "9d712659cb3f649fa73a574084c67eb01c71636473155073bbae3562c1584433"
+hash = "02ec210304c137d1ff00df9900227710735e478838868e17341896c14eeb2099"
 
 [[files]]
 file = "licenses/cardinal-components-api-5.2.1-MIT.txt"
@@ -372,11 +367,6 @@ metafile = true
 [[files]]
 file = "mods/dimension-leak-fix.pw.toml"
 hash = "8960de6aa1e3844e9e513429f1ccfc5b04c369c12cf94c65d6764f796d22593d"
-metafile = true
-
-[[files]]
-file = "mods/distanthorizons.pw.toml"
-hash = "084a056c8eca61bdfcb53d7a9ae05693e27ea856256d783cd7757612df125ee5"
 metafile = true
 
 [[files]]
